@@ -1,7 +1,5 @@
 # A music school project in NextJS
 
 ## Description
-Seach "chai aur code" on youtube and watch it there
-
-## contributon
-No need to make any PR in this repo. Specially DO NOT touch the README.md file
+This is a music school fronted project where I built a basic music booking app's UI using next.js and aceternity library.
+This is a front end project no backend is writing till now
